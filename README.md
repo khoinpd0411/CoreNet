@@ -17,11 +17,11 @@ pip install -r requirements.txt
 ## Preprocess
 run
 ```
-python preprocess/run_preprocess.py --dataset {name_dataset}
+python src/preprocess/run_preprocess.py --dataset {name_dataset}
 ```
 
 ## Training
 run
 ```
-python train.py --dataset {name_dataset}
+python src/train.py --dataset {name_dataset}
 ```
