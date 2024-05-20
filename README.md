@@ -1,7 +1,7 @@
 
 # CoreNet: Leveraging Context-Aware Representations via MLP Networks for CTR Prediction
 
-This is repo of paper "CoreNet: Leveraging Context-Aware Representations via MLP Networks for CTR Prediction" for SIGIR 2024 review process. 
+This is repo of paper "CoreNet: Leveraging Context-Aware Representations via MLP Networks for CTR Prediction" for RecSys 2024 review process. 
 
 ## Datasets
 Datasets are downloaded from:
